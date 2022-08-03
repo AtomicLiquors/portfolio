@@ -1,4 +1,4 @@
-# 최효빈 / 개발자 최효빈의 포트폴리오입니다.
+### 개발자 최효빈의 포트폴리오입니다.
 
 - example message 1
 - example message 2
