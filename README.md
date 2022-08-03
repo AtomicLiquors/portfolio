@@ -32,10 +32,11 @@
 
 ## Projects.
 
+### 카페 플랫폼
+https://github.com/HyebinPark96/CherryPick
 
-
-###음악 웹사이트
+### 음악 웹사이트
 https://github.com/AtomicLiquors/jsp-music-website/
 
-###공용 달력
+### 공용 달력
 https://github.com/AtomicLiquors/java-calendar
