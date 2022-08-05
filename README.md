@@ -58,6 +58,7 @@
 
 ### 카페 플랫폼
 핫플레이스 카페들을 소개하는 웹사이트입니다.  
+  
 - Spring 이용 MVC 모델 적용  
 - Ajax 비동기 통신을 통해 회원 및 카페(사업장) CRUD
 - Spring Security 적용 
@@ -73,6 +74,7 @@ Controller :
 DB : MySQL, MyBatis  
 IDE : STS4, HeidiSQL  
 
+<!-- Project REadme로.
 **역할 분담**  
 김서하  
 ● DB 설계 및 클라우드 DB 관리  
@@ -92,7 +94,7 @@ IDE : STS4, HeidiSQL
 최효빈  
 ● 프론트엔드 : css 디자인 및 js/jquery 이용 동적 엘리먼트 제어  
 ● 파일업로드 구현 및 Drag & Drop 방식과 이미지 미리보기 구현  
-● Ajax 비동기 통신을 통한 카페(사업장) 등록 및 수정 구현  
+● Ajax 비동기 통신을 통한 카페(사업장) 등록 및 수정 구현  -->
   
 
 ### 음악 웹사이트
