@@ -100,7 +100,7 @@ IDE : STS4
 &nbsp;    
 &nbsp;      
 
-### 팀 프로젝트 : 음악 웹사이트
+### [팀 프로젝트] 음악 웹사이트
 SNS기능이 구현된 게시판 입니다.  
 음악 플레이어 유튜브 링크  
 
@@ -113,7 +113,7 @@ GitHub: https://github.com/AtomicLiquors/jsp-music-website/
 &nbsp;  
 &nbsp;    
 
-### 사무용 캘린더
+### [팀 프로젝트] 사무용 캘린더
 D-Day 기능을 구현한 캘린더 프로그램입니다.
 
 - Java AWT/Swing 기반 GUI
@@ -124,8 +124,8 @@ GitHub: https://github.com/AtomicLiquors/java-calendar
 &nbsp;
 ---
 &nbsp;
-### Activity
+### Experience
 
-- 컴퓨터활용능력(1급)
-- 정보처리기사
+- 컴퓨터활용능력(1급) 취득 ('22.06.17 / 22201030532W)
+- 정보처리기사 자격증 취득 ('22.06.17 / 22201030532W)
 - 부산IT교육센터 [NCS] (디지털컨버전스)자바 기반 클라우드 융합 응용SW개발 과정 수료 ('22.01.17 - '22.07.26)
