@@ -61,6 +61,7 @@
 
 ### 팀 프로젝트 : 로컬 카페 추천 웹사이트
 핫플레이스 카페들을 소개하는 웹사이트입니다.  
+'22.07.01 - '22.07.26 (3주)   
   
 - Spring 이용 MVC 모델 적용  
 - Ajax 비동기 통신을 통해 회원 및 카페(사업장) CRUD
@@ -68,12 +69,13 @@
 
 GitHub: https://github.com/HyebinPark96/CherryPick  
   
+<!--
 **Skills**  
 Java. Spring
 
 View : Html, CSS, Ajax, Thymeleaf 
 DB : MySQL, MyBatis  
-IDE : STS4
+IDE : STS4-->
 
 <!-- Project REadme로.
 **역할 분담**  
@@ -101,11 +103,16 @@ IDE : STS4
 &nbsp;      
 
 ### [팀 프로젝트] 음악 웹사이트
-SNS기능이 구현된 게시판 입니다.  
-음악 플레이어 유튜브 링크  
+SNS기능이 구현된 게시판입니다.  
+음악 파일 업로드 플레이어로 표시 유튜브 링크  
+'22.05.01 - '22.05.17 (2주)
+  
+  &nbsp;  
+
+Tomcat, Java, JSP/servlet, j-Query, MySQL (개발인원: 4명)
 
 - Jsp
-- DB 설계  
+- [팀장] 화면설계 및 DB설계, 프론트엔드
 - 네이버 아이디 로그인 구현
 
 GitHub: https://github.com/AtomicLiquors/jsp-music-website/
@@ -114,10 +121,15 @@ GitHub: https://github.com/AtomicLiquors/jsp-music-website/
 &nbsp;    
 
 ### [팀 프로젝트] 사무용 캘린더
-D-Day 기능을 구현한 캘린더 프로그램입니다.
+캘린더 프로그램입니다.  
+'22.03.15 - '22.03.31(2주)  
+
+ (개발인원: 3명)
 
 - Java AWT/Swing 기반 GUI
-- JDBC, MySQL 이용 이용자 및 일정 정보 CRUD
+- [팀장] 화면설계 및 DB설계 
+- Java GUI 달력 구현 및 D-Day 기능
+- JDBC, MySQL 이용 회원등록/로그인/일정 등록 등 DB 연동 기능
 
 GitHub: https://github.com/AtomicLiquors/java-calendar
 
