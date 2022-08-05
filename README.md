@@ -28,7 +28,7 @@
 
 ---
 
-## Skills.
+### Skills.
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -54,9 +54,10 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   </div>
   
-&nbsp;    
 &nbsp;
-## Projects.
+---
+&nbsp;
+### Projects
 
 ### 팀 프로젝트 : 로컬 카페 추천 웹사이트
 핫플레이스 카페들을 소개하는 웹사이트입니다.  
@@ -67,7 +68,7 @@
 
 GitHub: https://github.com/HyebinPark96/CherryPick  
   
-**Skills:**  
+**Skills**  
 Java. Spring
 
 View : Html, CSS, Ajax, Thymeleaf 
@@ -99,14 +100,32 @@ IDE : STS4
 &nbsp;    
 &nbsp;      
 
-### 음악 웹사이트
-https://github.com/AtomicLiquors/jsp-music-website/
+### 팀 프로젝트 : 음악 웹사이트
+SNS기능이 구현된 게시판 입니다.  
+음악 플레이어 유튜브 링크  
+
+- Jsp
+- DB 설계  
+- 네이버 아이디 로그인 구현
+
+GitHub: https://github.com/AtomicLiquors/jsp-music-website/
 
 &nbsp;  
 &nbsp;    
 
-### 공용 달력
-https://github.com/AtomicLiquors/java-calendar
+### 사무용 캘린더
+D-Day 기능을 구현한 캘린더 프로그램입니다.
 
+- Java AWT/Swing 기반 GUI
+- JDBC, MySQL 이용 이용자 및 일정 정보 CRUD
 
+GitHub: https://github.com/AtomicLiquors/java-calendar
 
+&nbsp;
+---
+&nbsp;
+### Activity
+
+- 컴퓨터활용능력(1급)
+- 정보처리기사
+- 부산IT교육센터 [NCS] (디지털컨버전스)자바 기반 클라우드 융합 응용SW개발 과정 수료 ('22.01.17 - '22.07.26)
