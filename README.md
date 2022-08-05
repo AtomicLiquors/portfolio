@@ -12,22 +12,19 @@
 ---
 
 
-<div class="pull-left">
-    ### Contact.
+### Contact.
 
 **Email.** gyqls234@gmail.com
 
 **Phone.** 010-2527-9030
-</div>
 
-<div class="pull-right">
     
 ### Channel.
 
 **Blog.** [https://atomicliquors.tistory.com/](https://atomicliquors.tistory.com/)
 
 **Github.**  [https://github.com/AtomicLiquors](https://github.com/AtomicLiquors)
-</div>
+
 
 
 
