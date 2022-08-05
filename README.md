@@ -62,16 +62,14 @@
   
 - Spring 이용 MVC 모델 적용  
 - Ajax 비동기 통신을 통해 회원 및 카페(사업장) CRUD
-- Spring Security 적용 
-- SmartEditor 적용 카페 리뷰 작성
+- 파일업로드 구현
 
 GitHub: https://github.com/HyebinPark96/CherryPick  
   
 **Skills:**  
-Model : 
-View : Html, CSS, Ajax, Thymeleaf 
-Controller : 
+Java. Spring
 
+View : Html, CSS, Ajax, Thymeleaf 
 DB : MySQL, MyBatis  
 IDE : STS4, HeidiSQL  
 
