@@ -72,7 +72,7 @@ Java. Spring
 
 View : Html, CSS, Ajax, Thymeleaf 
 DB : MySQL, MyBatis  
-IDE : STS4, HeidiSQL  
+IDE : STS4
 
 <!-- Project REadme로.
 **역할 분담**  
