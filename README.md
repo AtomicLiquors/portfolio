@@ -7,8 +7,6 @@
 - example message 4
 -->
 
-[https://www.notion.so/4-61d08812073e4028af6d3610623377b9#222a87be342d4549a09e7efe1070d48c](https://www.notion.so/4-61d08812073e4028af6d3610623377b9)
-
 ---
 
 
