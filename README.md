@@ -1,11 +1,11 @@
 ### 개발자 최효빈의 포트폴리오
 ##### 신규 Java 웹개발자 최효빈입니다.
-
+<!--
 - example message 1
 - example message 2
 - example message 3
 - example message 4
-
+-->
 
 [https://www.notion.so/4-61d08812073e4028af6d3610623377b9#222a87be342d4549a09e7efe1070d48c](https://www.notion.so/4-61d08812073e4028af6d3610623377b9)
 
@@ -49,7 +49,8 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   </div>
----
+  <!--
+-->
 
 ## Projects.
 
