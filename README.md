@@ -53,8 +53,8 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   </div>
   
-    
-
+&nbsp;    
+&nbsp;
 ## Projects.
 
 ### 카페 플랫폼
@@ -97,13 +97,13 @@ IDE : STS4, HeidiSQL
 ● 파일업로드 구현 및 Drag & Drop 방식과 이미지 미리보기 구현  
 ● Ajax 비동기 통신을 통한 카페(사업장) 등록 및 수정 구현  -->
   
-    
-      
+&nbsp;    
+&nbsp;      
 
 ### 음악 웹사이트
 https://github.com/AtomicLiquors/jsp-music-website/
-  
-    
+&nbsp;  
+&nbsp;    
 ### 공용 달력
 https://github.com/AtomicLiquors/java-calendar
 
