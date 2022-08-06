@@ -1,11 +1,5 @@
 ### 개발자 최효빈의 포트폴리오
 ##### Java 백엔드 개발자 최효빈입니다.
-<!--
-- example message 1
-- example message 2
-- example message 3
-- example message 4
--->
 
 &nbsp;
 ---
@@ -32,7 +26,9 @@
 ---
 &nbsp;
 
-### Skills.
+### Skills.  
+(Java를 메인으로 하고, 공고를 보고 필요한 스택만 표시해서 제출.)
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
