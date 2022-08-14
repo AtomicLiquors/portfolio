@@ -62,7 +62,7 @@
 ### 💻 Projects.
 
 ### [팀 프로젝트] 로컬 카페 추천 웹사이트
-> 이용자들이 핫플레이스 카페들을 리스트로 모아 공유하, 카페 방문 후기를 남기는 웹사이트입니다.  
+> 이용자들이 핫플레이스 카페들을 리스트로 모아 공유하고, 카페 방문 후기를 남기는 웹사이트입니다.  
 '22.07.01 - '22.07.26 (3주) , 개발인원 3  
   
 - Spring 이용 MVC 모델 적용  
@@ -80,23 +80,14 @@
     <img src="https://img.shields.io/badge/mysql-edeae8?style=for-the-badge&logo=Java&logoColor=black">
     <img src="https://img.shields.io/badge/mybatis-edeae8?style=for-the-badge&logo=Java&logoColor=black">
 </div>
-
+<!-- 
 Java, Spring
-View : Html, CSS, Ajax, Thymeleaf 
-DB : MySQL, MyBatis  
-IDE : STS4
-
-GitHub: https://github.com/HyebinPark96/CherryPick  
-  
-<!--
-**Skills**  
-Java. Spring
-
 View : Html, CSS, Ajax, Thymeleaf 
 DB : MySQL, MyBatis  
 IDE : STS4-->
 
-PostgreSQL Prisma GraphQL Express.js React Next.js TypeScript Material UI  ElasticSearch
+**GitHub:**
+https://github.com/HyebinPark96/CherryPick  
 
   
 &nbsp;    
@@ -107,21 +98,19 @@ PostgreSQL Prisma GraphQL Express.js React Next.js TypeScript Material UI  Elast
 '22.05.01 - '22.05.17 (2주), 개발인원 4명
   &nbsp;  
 
-Tomcat, Java, JSP/servlet, j-Query, MySQL (개발인원: 4명)
+- 화면설계 및 DB설계  
+- 네이버 아이디 로그인 적용
+- 레이아웃 구성 등 프론트엔드 작업
+
+**사용 기술 :**
 <div style="display: flex;">
     <img src="https://img.shields.io/badge/java-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-    <img src="https://img.shields.io/badge/spring-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+    <img src="https://img.shields.io/badge/jsp-edeae8?style=for-the-badge&logo=Java&logoColor=black">
     <img src="https://img.shields.io/badge/html-edeae8?style=for-the-badge&logo=Java&logoColor=black">
     <img src="https://img.shields.io/badge/css-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-    <img src="https://img.shields.io/badge/ajax-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-    <img src="https://img.shields.io/badge/thymeleaf-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+    <img src="https://img.shields.io/badge/javascript-edeae8?style=for-the-badge&logo=Java&logoColor=black">
     <img src="https://img.shields.io/badge/mysql-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-    <img src="https://img.shields.io/badge/mybatis-edeae8?style=for-the-badge&logo=Java&logoColor=black">
 </div>
-
-- Jsp
-- [팀장] 화면설계 및 DB설계, 프론트엔드
-- 네이버 아이디 로그인 구현
 
 GitHub: https://github.com/AtomicLiquors/jsp-music-website/
 
@@ -129,12 +118,10 @@ GitHub: https://github.com/AtomicLiquors/jsp-music-website/
 &nbsp;    
 
 ### [팀 프로젝트] 사무용 캘린더
-캘린더 프로그램입니다.  
-개발기간 : '22.03.15 - '22.03.31(2주)  
-개발인원: 3명  
+> Java AWT/Swing 기반 GUI로 제작한 캘린더 프로그램입니다.  
+'22.03.15 - '22.03.31(2주), 개발인원 3명  
 
-- Java AWT/Swing 기반 GUI
-- [팀장] 화면설계 및 DB설계 
+- 화면설계 및 DB설계 
 - Java GUI 달력 구현 및 D-Day 기능
 - JDBC, MySQL 이용 회원등록/로그인/일정 등록 등 DB 연동 기능
 
