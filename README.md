@@ -15,10 +15,9 @@
 
 
 ### 📞 Contact.
+**Naver.** gyqls234@naver.com       
+**Gmail.** gyqls234@gmail.com   
 
-**Email.**   
-gyqls234@gmail.com   
-gyqls234@naver.com   
 
 
     
@@ -31,9 +30,8 @@ gyqls234@naver.com
 </div>
 
 
-&nbsp;
 ---
-&nbsp;
+
 
 ### Skills.  
 (Java를 메인으로 하고, 공고를 보고 필요한 스택만 표시해서 제출.)
