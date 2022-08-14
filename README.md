@@ -139,17 +139,17 @@ https://github.com/AtomicLiquors/jsp-music-website/
 &nbsp;
 
 **GitHub:** 
-https://github.com/AtomicLiquors/java-calendar
+https://github.com/AtomicLiquors/java-calendar<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="width:30px;">
 
 &nbsp;
 ---
 &nbsp;
-### Education
+### 📙 Education
 - 부산대학교 인문대학 중어중문학과 학사졸업(최우등) (`14.03.03 - `20.08.28)
 - 대만 국립정치대학 교환학생 파견 (`19.02.25 – '19.06.30)
 - 부산IT교육센터 [NCS] (디지털컨버전스)자바 기반 클라우드 융합 응용SW개발 과정 수료 ('22.01.17 - '22.07.26)
 
-### Certification
+### 💳 Certification
 - TOEIC 935 ('22.05.29)
 - 컴퓨터활용능력(1급) 취득 ('20.11.23)
 - 정보처리기사 자격증 취득 ('22.06.17)
