@@ -87,7 +87,9 @@ View : Html, CSS, Ajax, Thymeleaf
 DB : MySQL, MyBatis  
 IDE : STS4-->
 
-**GitHub:**
+&nbsp;
+
+**GitHub:**  
 https://github.com/HyebinPark96/CherryPick  
 
   
@@ -113,7 +115,10 @@ https://github.com/HyebinPark96/CherryPick
     <img src="https://img.shields.io/badge/mysql-edeae8?style=for-the-badge&logo=Java&logoColor=black">
 </div>
 
-GitHub: https://github.com/AtomicLiquors/jsp-music-website/
+&nbsp;
+
+**GitHub:**   
+https://github.com/AtomicLiquors/jsp-music-website/
 
 &nbsp;  
 &nbsp;    
@@ -131,7 +136,10 @@ GitHub: https://github.com/AtomicLiquors/jsp-music-website/
 <img src="https://img.shields.io/badge/java-edeae8?style=for-the-badge&logo=Java&logoColor=black">
 <img src="https://img.shields.io/badge/mysql-edeae8?style=for-the-badge&logo=Java&logoColor=black">
 
-GitHub: https://github.com/AtomicLiquors/java-calendar
+&nbsp;
+
+**GitHub:** 
+https://github.com/AtomicLiquors/java-calendar
 
 &nbsp;
 ---
