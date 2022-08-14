@@ -1,6 +1,8 @@
 ### 개발자 최효빈의 포트폴리오
 ##### Java 백엔드 개발자 최효빈입니다.
 
+모델 : https://roseline.oopy.io/resume
+
 &nbsp;
 ---
 &nbsp;
