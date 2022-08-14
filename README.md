@@ -93,7 +93,8 @@ IDE : STS4-->
 https://github.com/HyebinPark96/CherryPick  
 
   
-&nbsp;    
+&nbsp;  
+---
 &nbsp;      
 
 ### [팀 프로젝트] 음악 웹사이트
@@ -121,6 +122,7 @@ https://github.com/HyebinPark96/CherryPick
 https://github.com/AtomicLiquors/jsp-music-website/
 
 &nbsp;  
+---
 &nbsp;    
 
 ### [팀 프로젝트] 사무용 캘린더
