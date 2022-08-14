@@ -9,9 +9,9 @@
 
 <!--모델 : https://roseline.oopy.io/resume-->
 
-&nbsp;
+
 ---
-&nbsp;
+
 
 
 ### 📞 Contact.
@@ -20,7 +20,7 @@
 gyqls234@gmail.com   
 gyqls234@naver.com   
 
-&nbsp;  
+
     
 ### 📺 Channel.
 
