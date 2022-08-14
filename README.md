@@ -31,6 +31,8 @@
 ### Skills.  
 (Java를 메인으로 하고, 공고를 보고 필요한 스택만 표시해서 제출.)
 
+<img src="https://img.shields.io/badge/?style=for-the-badge&logo=html5&logoColor=white"> 
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -84,6 +86,8 @@ Java. Spring
 View : Html, CSS, Ajax, Thymeleaf 
 DB : MySQL, MyBatis  
 IDE : STS4-->
+
+PostgreSQL Prisma GraphQL Express.js React Next.js TypeScript Material UI  ElasticSearch
 
 <!-- Project REadme로.
 **역할 분담**  
