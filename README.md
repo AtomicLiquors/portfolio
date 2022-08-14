@@ -32,7 +32,7 @@
 (Java를 메인으로 하고, 공고를 보고 필요한 스택만 표시해서 제출.)
 
 
-<img src="https://img.shields.io/badge/v1?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Java&logoColor=white">
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
