@@ -1,9 +1,40 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
+section.split {
+    overflow: visible;
+    display: grid;
+    grid-template-columns: 500px 500px;
+    grid-template-rows: 100px auto;
+    grid-template-areas: 
+        "slideheading slideheading"
+        "leftpanel rightpanel";
+}
+/* debug */
+section.split h3, 
+section.split .ldiv, 
+section.split .rdiv { border: 1.5pt dashed dimgray; }
+section.split h3 {
+    grid-area: slideheading;
+    font-size: 50px;
+}
+section.split .ldiv { grid-area: leftpanel; }
+section.split .rdiv { grid-area: rightpanel; }
+### A split slide
+<!-- _class: split -->
 
-<div style="font-family: 'Noto Sans KR', sans-serif;">
-    
+<div class=ldiv>
+
+#### Title for the left panel
+- listed item
+- listed item
+- listed item
+</div>
+<div class=rdiv>
+
+#### Title for the right panel
+- listed item
+- listed item
+- listed item
+</div>
+
 ### 개발자 최효빈의 포트폴리오
 ##### Java 백엔드 웹개발자 최효빈입니다.
 
@@ -18,7 +49,9 @@
 **Naver.** gyqls234@naver.com       
 **Gmail.** gyqls234@gmail.com   
 
-
+&nbsp;
+---
+&nbsp;
 
     
 ### 📺 Channel.
