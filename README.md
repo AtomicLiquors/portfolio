@@ -1,7 +1,13 @@
-### 개발자 최효빈의 포트폴리오
-##### Java 백엔드 개발자 최효빈입니다.
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
 
-모델 : https://roseline.oopy.io/resume
+
+<div style="font-family: 'Noto Sans KR', sans-serif;">
+### 개발자 최효빈의 포트폴리오
+##### Java 백엔드 웹개발자 최효빈입니다.
+
+<!--모델 : https://roseline.oopy.io/resume-->
 
 &nbsp;
 ---
@@ -11,7 +17,6 @@
 ### Contact.
 
 **Email.** gyqls234@gmail.com
-
 **Phone.** 010-2527-9030
 
     
@@ -21,7 +26,7 @@
 
 **Github.**  [https://github.com/AtomicLiquors](https://github.com/AtomicLiquors)
 
-
+</div>
 
 
 &nbsp;
