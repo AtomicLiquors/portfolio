@@ -46,10 +46,6 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
  
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  
- 
-
-
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <br>
   
@@ -72,15 +68,16 @@
 - 파일업로드 구현
 
 사용 기술 :
-
-<img src="https://img.shields.io/badge/java-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-<img src="https://img.shields.io/badge/spring-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-<img src="https://img.shields.io/badge/html-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-<img src="https://img.shields.io/badge/css-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-<img src="https://img.shields.io/badge/ajax-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-<img src="https://img.shields.io/badge/thymeleaf-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-<img src="https://img.shields.io/badge/mysql-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-<img src="https://img.shields.io/badge/mybatis-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+<div style="display: flex;">
+    <img src="https://img.shields.io/badge/java-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+    <img src="https://img.shields.io/badge/spring-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+    <img src="https://img.shields.io/badge/html-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+    <img src="https://img.shields.io/badge/css-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+    <img src="https://img.shields.io/badge/javascript-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+    <img src="https://img.shields.io/badge/thymeleaf-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+    <img src="https://img.shields.io/badge/mysql-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+    <img src="https://img.shields.io/badge/mybatis-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+</div>
 
 Java, Spring
 View : Html, CSS, Ajax, Thymeleaf 
@@ -130,6 +127,16 @@ PostgreSQL Prisma GraphQL Express.js React Next.js TypeScript Material UI  Elast
   &nbsp;  
 
 Tomcat, Java, JSP/servlet, j-Query, MySQL (개발인원: 4명)
+<div style="display: flex;">
+    <img src="https://img.shields.io/badge/java-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+    <img src="https://img.shields.io/badge/spring-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+    <img src="https://img.shields.io/badge/html-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+    <img src="https://img.shields.io/badge/css-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+    <img src="https://img.shields.io/badge/ajax-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+    <img src="https://img.shields.io/badge/thymeleaf-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+    <img src="https://img.shields.io/badge/mysql-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+    <img src="https://img.shields.io/badge/mybatis-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+</div>
 
 - Jsp
 - [팀장] 화면설계 및 DB설계, 프론트엔드
