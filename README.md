@@ -3,6 +3,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtomicLiquors)](https://github.com/AtomicLiquors/github-readme-stats)
+
 <div style="font-family: 'Noto Sans KR', sans-serif;">
     
 ### 개발자 최효빈의 포트폴리오
