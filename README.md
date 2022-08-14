@@ -32,7 +32,7 @@
 ### Skills.  
 (Java를 메인으로 하고, 공고를 보고 필요한 스택만 표시해서 제출.)
 
-
+<!--
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Java&logoColor=white">
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
+-->
   
 
 <div style="display: flex;">
