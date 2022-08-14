@@ -139,7 +139,7 @@ https://github.com/AtomicLiquors/jsp-music-website/
 &nbsp;
 
 **GitHub:** 
-https://github.com/AtomicLiquors/java-calendar<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="width:30px;">
+https://github.com/AtomicLiquors/java-calendar
 
 &nbsp;
 ---
