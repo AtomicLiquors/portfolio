@@ -33,7 +33,6 @@
 
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/java-ded9d7?style=for-the-badge&logo=Java&logoColor=black">
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -73,6 +72,15 @@
 - 파일업로드 구현
 
 사용 기술 :
+
+<img src="https://img.shields.io/badge/java-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/spring-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/html-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/css-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/ajax-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/thymeleaf-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/mysql-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/mybatis-edeae8?style=for-the-badge&logo=Java&logoColor=black">
 
 Java, Spring
 View : Html, CSS, Ajax, Thymeleaf 
@@ -141,6 +149,11 @@ GitHub: https://github.com/AtomicLiquors/jsp-music-website/
 - [팀장] 화면설계 및 DB설계 
 - Java GUI 달력 구현 및 D-Day 기능
 - JDBC, MySQL 이용 회원등록/로그인/일정 등록 등 DB 연동 기능
+
+
+사용 기술 : 
+<img src="https://img.shields.io/badge/java-edeae8?style=for-the-badge&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/mysql-edeae8?style=for-the-badge&logo=Java&logoColor=black">
 
 GitHub: https://github.com/AtomicLiquors/java-calendar
 
