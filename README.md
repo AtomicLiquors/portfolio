@@ -64,6 +64,7 @@
 ### [팀 프로젝트] 로컬 카페 추천 웹사이트
 > 이용자들이 핫플레이스 카페들을 리스트로 모아 공유하고, 카페 방문 후기를 남기는 웹사이트입니다.  
 '22.07.01 - '22.07.26 (3주) , 개발인원 3  
+&nbsp;  
   
 - Spring 이용 MVC 모델 적용  
 - Ajax 비동기 통신을 통해 회원 및 카페(사업장) CRUD
@@ -125,8 +126,8 @@ GitHub: https://github.com/AtomicLiquors/jsp-music-website/
 - Java GUI 달력 구현 및 D-Day 기능
 - JDBC, MySQL 이용 회원등록/로그인/일정 등록 등 DB 연동 기능
 
-
-사용 기술 : 
+&nbsp;  
+**사용 기술 :**  
 <img src="https://img.shields.io/badge/java-edeae8?style=for-the-badge&logo=Java&logoColor=black">
 <img src="https://img.shields.io/badge/mysql-edeae8?style=for-the-badge&logo=Java&logoColor=black">
 
