@@ -14,13 +14,15 @@
 &nbsp;
 
 
-### Contact.
+### 📞 Contact.
 
-✉️ **Email.** gyqls234@gmail.com  
-**Phone.** 010-2527-9030
+**Email.**   
+gyqls234@gmail.com   
+gyqls234@naver.com   
 
+&nbsp;  
     
-### Channel.
+### 📺 Channel.
 
 **Blog.** [https://atomicliquors.tistory.com/](https://atomicliquors.tistory.com/)
 
