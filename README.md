@@ -13,9 +13,7 @@
 
 **Gmail.** gyqls234@gmail.com   
 
-&nbsp;
----
-&nbsp;
+<hr>
 
     
 ### 📺 Channel.
