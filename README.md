@@ -60,12 +60,18 @@
 ### Projects
 
 ### [팀 프로젝트] 로컬 카페 추천 웹사이트
-핫플레이스 카페들을 소개하는 웹사이트입니다.  
+유저들이 핫플레이스 카페들을 리스트로 모아 공유하고, 방문 후기를 남기는 웹사이트입니다.  
 '22.07.01 - '22.07.26 (3주)   
   
 - Spring 이용 MVC 모델 적용  
 - Ajax 비동기 통신을 통해 회원 및 카페(사업장) CRUD
 - 파일업로드 구현
+
+사용 기술 :
+Java, Spring
+View : Html, CSS, Ajax, Thymeleaf 
+DB : MySQL, MyBatis  
+IDE : STS4
 
 GitHub: https://github.com/HyebinPark96/CherryPick  
   
