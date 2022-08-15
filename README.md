@@ -42,7 +42,7 @@
 
 ### 🛠️ Skills.  
 
-###Java / Javascript / Spring
+### Java / Javascript / Spring
 <!--
 (Java를 메인으로 하고, 공고를 보고 필요한 스택만 표시해서 제출.)
 
