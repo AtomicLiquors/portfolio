@@ -144,7 +144,6 @@ https://github.com/AtomicLiquors/java-calendar
 
 
 &nbsp;  
-
 ---
 
 &nbsp;  
@@ -160,6 +159,7 @@ https://github.com/AtomicLiquors/java-calendar
 - TOEIC 935 ('22.05.29)
 - 컴퓨터활용능력(1급) 취득 ('20.11.23)
 - 정보처리기사 자격증 취득 ('22.06.17)
+
 &nbsp;  
 ---
 
