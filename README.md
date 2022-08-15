@@ -1,6 +1,8 @@
 ### 개발자 최효빈의 포트폴리오
 ##### Java 백엔드 웹개발자 최효빈입니다.
 ##### 실습과 이론의 시너지를 추구합니다.
+<!--이론을 좋아하고 이론 배우는 데 거부감이 없다는 걸 드러내고 싶다.-->
+<!--동시에 실습을 등한시한다는 인상을 주고 싶지가 않다.-->
 
 <!--모델 : https://roseline.oopy.io/resume-->
 
@@ -34,7 +36,7 @@
 (Java를 메인으로 하고, 공고를 보고 필요한 스택만 표시해서 제출.)
 
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
