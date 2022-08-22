@@ -41,7 +41,7 @@
 ---
 -->
 
-### 🛠️ Skills.  
+### 🛠️ Stack.  
 
 ### Java / Javascript / Spring
 <!--
