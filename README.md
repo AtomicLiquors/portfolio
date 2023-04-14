@@ -81,11 +81,6 @@
     <img src="https://img.shields.io/badge/mysql-edeae8?style=for-the-badge&logo=Java&logoColor=black">
     <img src="https://img.shields.io/badge/mybatis-edeae8?style=for-the-badge&logo=Java&logoColor=black">
 </div>
-<!-- 
-Java, Spring
-View : Html, CSS, Ajax, Thymeleaf 
-DB : MySQL, MyBatis  
-IDE : STS4-->
 
 &nbsp;
 
