@@ -44,17 +44,17 @@
 
 
 ### 🛠️ Stack.  
-<!--
-<p>
-  <img src="./java_logo.png"/>
-  <img src="./spring_logo.png"/>
-  <img src="./mysql_logo.png">
-  <br>
-</p>-->
 
+<p>
+  <img src="./java_icon.png"/>
+  <img src="./spring_icon.png"/>
+  <img src="./mysql_icon.png">
+  <br>
+</p>
+<!--
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">-->
 <!--
 (Java를 메인으로 하고, 공고를 보고 필요한 스택만 표시해서 제출.)
 
