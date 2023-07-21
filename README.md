@@ -46,9 +46,9 @@
 ### 🛠️ Stack.  
 
 <p>
-  <img src="./java_icon.png"/>
-  <img src="./spring_icon.png"/>
-  <img src="./mysql_icon.png">
+  <img src="./java_icon.png" width="30px" height="30px"/>
+  <img src="./spring_icon.png" width="30px" height="30px"/>
+  <img src="./mysql_icon.png" width="30px" height="30px"/>
   <br>
 </p>
 <!--
