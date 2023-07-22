@@ -47,8 +47,10 @@
 
 <p>
   <img src="./java_icon.png" width="30px" height="30px"/>
+    <br>
   <img src="./spring_icon.png" width="30px" height="30px"/>
-  <img src="./mysql_icon.png" width="30px" height="30px"/>
+  <br>
+    <img src="./mysql_icon.png" width="30px" height="30px"/>
   <br>
 </p>
 <!--
@@ -85,6 +87,7 @@
 &nbsp;
 ---
 &nbsp;
+
 ### 💻 Projects.
 
 ### [팀 프로젝트] Cherrypick : 로컬 카페 검색 웹사이트 :cherries: 
