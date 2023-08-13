@@ -1,12 +1,7 @@
-## Hyobin Choe / AtomicLiquors
-### Java Backend Web Developer
-### 삼성 청년 SW 아카데미(SSAFY) 9기 교육생
-&nbsp;  
-> 코드는 요구사항을 표현하는 언어다.  
- *— [Clean Code] Robert C. Martin*
-&nbsp;
+#### Java Backend Web Developer / 삼성 청년 SW 아카데미(SSAFY) 9기 교육생
+## 최 효 빈
 
-### 인문계 어학 전공 최우등 졸업생에서, SSAFY 전공자 분반 최우수 교육생까지
+• 최우등 졸업생에서, SSAFY 전공자 분반 최우수 교육생까지
 • 새로운 사람들과 대화하며, 새로운 세상을 보는 것, 언어를 배우는 이유입니다. &nbsp;  &nbsp;  
     인간 대 컴퓨터의 대화, 그리고 0과 1의 세계를 탐구하는 것, 
     프로그래밍 언어가 가진 최고의 매력입니다.
@@ -16,10 +11,7 @@
      무엇이든 ‘원래 그런 것’은 없다고 믿습니다. 어떤 것을 공부하더라도, 끊임없는 탐구심으로 &nbsp;  
      명확한 근거를 찾아 합리적인 해답을 제시하고자 합니다.
      
-&nbsp;  
-• 뛰어난 어학 실력으로 해외의 기술 자료들을 빠르게 습득할 수 있습니다. &nbsp;  
-                                                  Leetcode와 Codeforce 문제를 번역기 없이 풀 수 있으며, &nbsp;  
-                                                  개발을 주제로 ChatGPT와 영어로 1시간 동안 마라톤 회의를 할 수 있습니다. &nbsp;  
+
                                                   
 
 <!--모델 : https://roseline.oopy.io/resume-->
@@ -28,32 +20,28 @@
 [ Discord "데일리 CS 퀴즈 채널" 운영 중 ]
 
 
-### 📞 Contact.
+### 📞 CONTACT
 **Naver.** gyqls234@naver.com      
-
 **Gmail.** gyqls234@gmail.com   
 
 &nbsp;
 
-    
-
-
 ### 🛠️ Stack.  
 
 
-  <img src="./java_icon.png" width="30px" height="30px"/> Java &nbsp;  
+  <img src="./java_icon.png" width="30px" height="30px"/> **Java** &nbsp;  
 - Java 인터페이스, Singleton 패턴, 또는 Builder 패턴을 이용한 MVC 패턴 구현 가능 &nbsp;  
 - 백준 Online Judge Gold 3 티어 &nbsp;  
 - Mockito, RestDocs를 이용하여 단위 테스트 코드 작성 및  API 문서 작성
 &nbsp;  
 
 
-<img src="./spring_icon.png" width="30px" height="30px"/> Spring
-- Spring MVC와  RESTful API를 이용한 웹 프로젝트 경험, SSAFY 전공자 분반 최우수 PJT상 수상
+<img src="./spring_icon.png" width="30px" height="30px"/> **Spring**
+- Spring MVC와  RESTful API를 이용한 SPA 개발 경험 : SSAFY 전공자 분반 최우수 PJT상 수상
 - IoC와 DI 등 Spring의 의존성 관리 메커니즘의 학습과 이해
   &nbsp;
    
-<img src="./mysql_icon.png" width="30px" height="30px"/> MySQL
+<img src="./mysql_icon.png" width="30px" height="30px"/> **MySQL**
 - 요구사항에 필요한 Join과 SubQuery, 가상 테이블(View) 활용 가능 
 - JPA 또는 MyBatis를 이용한 Spring Project와의 DB연동 
 - SQLD 자격증 보유, 웹 프로젝트 DB설계 경험 다수
@@ -101,18 +89,18 @@
 Spring Framework 기반의 REST API + Vue.js 기반의 클라이언트로 구성된 Single Page Application입니다.
 '23.05.01 - '23.05.26 (3주) , 개발인원 2명
 
-[기획의도]
+**[기획의도]**
 - 코로나 19 이후 증가한 온라인 여행 플래너 수요에 부합하는 서비스를 만들고자 하였습니다.
 - Axios 비동기 통신을 이용하여, 사용자가 실시간으로 데이터와 상호작용할 수 있는 웹 서비스를 구현하고자 하였습니다.
 - ChatGPT, Kakao API, 공공데이터 등등 웹서비스의 유용성을 높이는 API들을 활용하였습니다.
  
-[역할] : 팀장
+**[역할]** : 팀장
 - DB구조 설계, 협업체계(Git) 관리
 - 회원기능, 관광지 정보, 포토리뷰, 여행계획 구현
 
 
 
-**시연 영상:**  
+**🎥시연 영상:**  
 https://www.youtube.com/watch?v=Zujd17yREBY
 
 
@@ -123,11 +111,11 @@ https://www.youtube.com/watch?v=Zujd17yREBY
 이용자들이 핫플레이스 카페들을 리스트로 모아 공유하고, 카페 방문 후기를 남기는 웹 서비스입니다.
 '22.07.01 - '22.07.26 (3주) , 개발인원 3명
 
-[기획의도] 
+**[기획의도]** 
 - 식당 정보를 공유하는 <망고플레이트>를 벤치마킹하여, 카페를 타겟팅한 웹서비스를 제작하고자 하였습니다.
 - Spring 프레임워크 기반의 MVC 모델을 적용하였습니다.
  
-[역할] : 팀원
+**[역할]** : 팀원
 - 파일업로드 구축, 카페(사업장) 리스트업 기능 구현,
 - Ajax 비동기 통신을 이용한 회원 및 카페(사업장) CRUD를 구현
 - 전체적인 프론트엔드 작업 담당
