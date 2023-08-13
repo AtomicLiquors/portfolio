@@ -23,28 +23,6 @@
                                                   
 
 <!--모델 : https://roseline.oopy.io/resume-->
-<!--
-[구] 부산대학교 중어중문학과 최우등 졸업생
-[구] 
-[현] 삼성 청년 SW 아카데미 SSAFY 전공자 분반 최우수 교육생까지
-세계와 세계 간의 장벽을 허무는 것.
-• 새로운 사람들과 대화하며, 새로운 세상을 보는 것, 언어를 배우는 이유입니다. 
-    인간 대 컴퓨터의 대화, 그리고 0과 1의 세계를 탐구하는 것, 
-    프로그래밍 언어가 가진 최고의 매력입니다.
-• 어떤 것이든 ‘원래 그런 것’은 없다고 믿습니다. 
-     끊임없는 탐구심으로, 명확한 근거를 찾아 합리적인 해답을 제시하고자 합니다.
-• 해외의 기술 자료들을 빠르게 습득할 수 있는 어학 실력을 갖추었습니다. 
-                                             Leetcode와 Codeforce 문제를 번역기 없이 풀 수 있으며, 
-                                             개발을 주제로 ChatGPT와 영어로 1시간 동안 마라톤 회의를 할 수 있습니다.
- 그 모든 것을 관통하는 코드의 힘에 이끌려 개발자가 되었습니다.
-다양한 영감을 받고 융합적인 사고
-
-• 폭넓은 관심사, 풍부한 경험. 그로부터 창출되어 나오는 다양한 영감. 그것을 바탕으로 융합적인 사고를 이끌어냅니다.  
-• 어떤 것이든 ‘원래 그런 것’은 없다고 믿습니다. 
-     끊임없는 탐구심으로, 명확한 근거를 찾아 합리적인 해답을 제시하고자 합니다.
-
--->
-
 &nbsp;  
 ---
 [ Discord "데일리 CS 퀴즈 채널" 운영 중 ]
@@ -64,16 +42,18 @@
 
 
   <img src="./java_icon.png" width="30px" height="30px"/> Java &nbsp;  
-    - Java 인터페이스, Singleton 패턴, 또는 Builder 패턴을 이용한 MVC 패턴 구현 가능 &nbsp;  
+- Java 인터페이스, Singleton 패턴, 또는 Builder 패턴을 이용한 MVC 패턴 구현 가능 &nbsp;  
 - 백준 Online Judge Gold 3 티어 &nbsp;  
-- Mockito, RestDocs를 이용하여 단위 테스트 코드 작성 및  API 문서 작성 &nbsp;  
+- Mockito, RestDocs를 이용하여 단위 테스트 코드 작성 및  API 문서 작성
+&nbsp;  
 
 
-  <img src="./spring_icon.png" width="30px" height="30px"/> Spring
-  - Spring MVC와  RESTful API를 이용한 웹 프로젝트 경험, SSAFY 전공자 분반 최우수 PJT상 수상
+<img src="./spring_icon.png" width="30px" height="30px"/> Spring
+- Spring MVC와  RESTful API를 이용한 웹 프로젝트 경험, SSAFY 전공자 분반 최우수 PJT상 수상
 - IoC와 DI 등 Spring의 의존성 관리 메커니즘의 학습과 이해
-  &nbsp;  
-    <img src="./mysql_icon.png" width="30px" height="30px"/> MySQL
+  &nbsp;
+   
+<img src="./mysql_icon.png" width="30px" height="30px"/> MySQL
 - 요구사항에 필요한 Join과 SubQuery, 가상 테이블(View) 활용 가능 
 - JPA 또는 MyBatis를 이용한 Spring Project와의 DB연동 
 - SQLD 자격증 보유, 웹 프로젝트 DB설계 경험 다수
