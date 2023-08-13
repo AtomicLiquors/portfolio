@@ -66,8 +66,6 @@
 <!--
 (Java를 메인으로 하고, 공고를 보고 필요한 스택만 표시해서 제출.)
 
-
-
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -75,8 +73,6 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
-
-  
 
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -94,29 +90,47 @@
 ---
 &nbsp;
 
-### 💻 Projects.
 
-### [팀 프로젝트] Cherrypick : 로컬 카페 검색 웹사이트 :cherries: 
-> 이용자들이 핫플레이스 카페들을 리스트로 모아 공유하고, 카페 방문 후기를 남기는 웹사이트입니다.  
-'22.07.01 - '22.07.26 (3주) , 개발인원 3  
 
-- Spring 이용 MVC 모델 적용  
-- Ajax 비동기 통신을 통해 회원 및 카페(사업장) CRUD
-- 파일업로드 구현
 
-**사용 기술 :**
-<div style="display: flex;">
-    <img src="https://img.shields.io/badge/java-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-    <img src="https://img.shields.io/badge/spring-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-    <img src="https://img.shields.io/badge/html-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-    <img src="https://img.shields.io/badge/css-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-    <img src="https://img.shields.io/badge/javascript-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-    <img src="https://img.shields.io/badge/thymeleaf-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-    <img src="https://img.shields.io/badge/mysql-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-    <img src="https://img.shields.io/badge/mybatis-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-</div>
+## 💻 Project
 
-&nbsp;
+### 🍏Ringo : 여행지 정보 웹사이트
+
+여행지 검색, 여행 계획을 작성하고 관광지 포토리뷰, 여행정보 게시판 등 커뮤니티를 제공하는 
+Spring Framework 기반의 REST API + Vue.js 기반의 클라이언트로 구성된 Single Page Application입니다.
+'23.05.01 - '23.05.26 (3주) , 개발인원 2명
+
+[기획의도]
+- 코로나 19 이후 증가한 온라인 여행 플래너 수요에 부합하는 서비스를 만들고자 하였습니다.
+- Axios 비동기 통신을 이용하여, 사용자가 실시간으로 데이터와 상호작용할 수 있는 웹 서비스를 구현하고자 하였습니다.
+- ChatGPT, Kakao API, 공공데이터 등등 웹서비스의 유용성을 높이는 API들을 활용하였습니다.
+ 
+[역할] : 팀장
+- DB구조 설계, 협업체계(Git) 관리
+- 회원기능, 관광지 정보, 포토리뷰, 여행계획 구현
+
+
+
+**시연 영상:**  
+https://www.youtube.com/watch?v=Zujd17yREBY
+
+
+
+
+### 🍒Cherrypick : 로컬 카페 추천 웹사이트
+
+이용자들이 핫플레이스 카페들을 리스트로 모아 공유하고, 카페 방문 후기를 남기는 웹 서비스입니다.
+'22.07.01 - '22.07.26 (3주) , 개발인원 3명
+
+[기획의도] 
+- 식당 정보를 공유하는 <망고플레이트>를 벤치마킹하여, 카페를 타겟팅한 웹서비스를 제작하고자 하였습니다.
+- Spring 프레임워크 기반의 MVC 모델을 적용하였습니다.
+ 
+[역할] : 팀원
+- 파일업로드 구축, 카페(사업장) 리스트업 기능 구현,
+- Ajax 비동기 통신을 이용한 회원 및 카페(사업장) CRUD를 구현
+- 전체적인 프론트엔드 작업 담당
 
 **GitHub:**  
 https://github.com/HyebinPark96/CherryPick  
@@ -153,24 +167,6 @@ https://github.com/AtomicLiquors/jsp-music-website/
 &nbsp;  
 ---
 &nbsp;    
-
-### [팀 프로젝트] 사무용 캘린더 :calendar:
-> Java AWT/Swing 기반 GUI로 제작한 캘린더 프로그램입니다.  
-'22.03.15 - '22.03.31(2주), 개발인원 3명  
-- 화면설계 및 DB설계 
-- Java GUI 달력 구현 및 D-Day 기능
-- JDBC, MySQL 이용 회원등록/로그인/일정 등록 등 DB 연동 기능
-
-&nbsp;  
-**사용 기술 :**  
-<img src="https://img.shields.io/badge/java-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-<img src="https://img.shields.io/badge/mysql-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-
-&nbsp;
-
-**GitHub:**   
-https://github.com/AtomicLiquors/java-calendar
-
 
 &nbsp;  
 ---
