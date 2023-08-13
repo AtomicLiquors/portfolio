@@ -62,14 +62,23 @@
 
 ### 🛠️ Stack.  
 
-<p>
-  <img src="./java_icon.png" width="30px" height="30px"/>
-    <br>
-  <img src="./spring_icon.png" width="30px" height="30px"/>
-  <br>
-    <img src="./mysql_icon.png" width="30px" height="30px"/>
-  <br>
-</p>
+
+  <img src="./java_icon.png" width="30px" height="30px"/> Java &nbsp;  
+    - Java 인터페이스, Singleton 패턴, 또는 Builder 패턴을 이용한 MVC 패턴 구현 가능 &nbsp;  
+- 백준 Online Judge Gold 3 티어 &nbsp;  
+- Mockito, RestDocs를 이용하여 단위 테스트 코드 작성 및  API 문서 작성 &nbsp;  
+
+
+  <img src="./spring_icon.png" width="30px" height="30px"/> Spring
+  - Spring MVC와  RESTful API를 이용한 웹 프로젝트 경험, SSAFY 전공자 분반 최우수 PJT상 수상
+- IoC와 DI 등 Spring의 의존성 관리 메커니즘의 학습과 이해
+  &nbsp;  
+    <img src="./mysql_icon.png" width="30px" height="30px"/> MySQL
+- 요구사항에 필요한 Join과 SubQuery, 가상 테이블(View) 활용 가능 
+- JPA 또는 MyBatis를 이용한 Spring Project와의 DB연동 
+- SQLD 자격증 보유, 웹 프로젝트 DB설계 경험 다수
+  &nbsp;  
+
 <!--
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
