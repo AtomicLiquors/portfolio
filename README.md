@@ -1,15 +1,6 @@
 #### Java Backend Web Developer / 삼성 청년 SW 아카데미(SSAFY) 9기 교육생
 ## 최 효 빈
-
-
-    
- &nbsp;  
-
-     무엇이든 ‘원래 그런 것’은 없다고 믿습니다. 어떤 것을 공부하더라도,&nbsp;  
-     명확한 근거를 찾아 합리적인 해답을 제시하고자 합니다.
-     
-
-                                                  
+                           
 
 <!--모델 : https://roseline.oopy.io/resume-->
 &nbsp;  
