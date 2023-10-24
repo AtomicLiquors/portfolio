@@ -3,8 +3,7 @@
                            
 
 <!--모델 : https://roseline.oopy.io/resume-->
-&nbsp;  
----
+
 [ Discord "데일리 CS 퀴즈 채널" 운영 중 ]
 
 
