@@ -116,24 +116,6 @@ https://github.com/HyebinPark96/CherryPick
 ---
 &nbsp;      
 
-### [팀 프로젝트] Jsp 음악 커뮤니티 웹사이트 :headphones:
-> 음악을 주제로 대화하며, 댓글과 좋아요 등 SNS기능이 구현된 게시판 웹사이트입니다.  
-'22.05.01 - '22.05.17 (2주), 개발인원 4명
-  &nbsp;  
-
-- 화면설계 및 DB설계  
-- 네이버 아이디 로그인 적용
-- 레이아웃 구성 등 프론트엔드 작업
-
-**사용 기술 :**
-<div style="display: flex;">
-    <img src="https://img.shields.io/badge/java-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-    <img src="https://img.shields.io/badge/jsp-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-    <img src="https://img.shields.io/badge/html-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-    <img src="https://img.shields.io/badge/css-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-    <img src="https://img.shields.io/badge/javascript-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-    <img src="https://img.shields.io/badge/mysql-edeae8?style=for-the-badge&logo=Java&logoColor=black">
-</div>
 
 &nbsp;
 
