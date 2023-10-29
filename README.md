@@ -61,9 +61,8 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   </div>
 -->
-&nbsp;
----
-&nbsp;
+&nbsp;  
+&nbsp;  
 
 
 
@@ -86,6 +85,8 @@
 
 
 
+&nbsp;  
+
 ### 🍏Ringo : 여행지 정보 웹사이트
 
 여행지 검색, 여행 계획을 작성하고 관광지 포토리뷰, 여행정보 게시판 등 커뮤니티를 제공하는   
@@ -106,6 +107,8 @@ Spring Framework 기반의 REST API + Vue.js 기반의 클라이언트로 구성
 **🎥시연 영상:**  
 https://www.youtube.com/watch?v=Zujd17yREBY
 
+
+&nbsp;  
 
 
 
