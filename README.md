@@ -1,28 +1,29 @@
-## 50%의 아이디어를 100%의 아웃풋까지
+<div style="color: #55CBCD">50%의 아이디어를 100%의 아웃풋까지</div>
+
 ## 최 효 빈
-___
+
 SSAFY 9기 교육생 | Java & Spring 웹 애플리케이션 개발자
 <!--모델 : https://roseline.oopy.io/resume-->
 
-열정과 아이디어가 넘치는 동료들과 함께할 때 최상의 시너지를 만들어냅니다.
-삼성 청년 SW 아카데미의 팀 프로젝트 시상에서 최우수상, 우수상을 달성했습니다.
-사소하게 흘러가는 시간이라도 꼼꼼하게 활용합니다. 
-출근 시간이 30분을 넘는 사람들끼리 3~6인 단위로 데일리 CS퀴즈 스터디를 운영하고 있습니다.
+열정과 아이디어가 넘치는 동료들과 함께할 때 최상의 시너지를 만들어냅니다.  
+삼성 청년 SW 아카데미의 팀 프로젝트 시상에서 최우수상, 우수상을 달성했습니다.  
+사소하게 흘러가는 시간이라도 꼼꼼하게 활용하며,  
+출근 시간이 30분을 넘는 3~6인의 동료들과 함께 3개월간 데일리 CS 퀴즈 스터디를 운영하고 있습니다.  
+
+&nbsp;  
 
 
-### 📞 CONTACT
-**Naver.** gyqls234@naver.com      
+## 📧 CONTACT
+**Naver.** gyqls234@naver.com        
 **Gmail.** gyqls234@gmail.com   
 
 &nbsp;
 
-### 🛠️ Stack.  
-
-
+## 🛠️ Skills  
   <img src="./java_icon.png" width="30px" height="30px"/> **Java** &nbsp;  
 - Java 인터페이스, Singleton 패턴, 또는 Builder 패턴을 이용한 MVC 패턴 구현 가능 &nbsp;  
 - 백준 Online Judge Gold 3 티어 &nbsp;  
-- Mockito, RestDocs를 이용하여 단위 테스트 코드 작성 및  API 문서 작성
+- Mockito, RestDocs를 이용한 단위 테스트 코드 작성 및 API 문서 작성
 &nbsp;  
 
 
@@ -72,19 +73,15 @@ SSAFY 9기 교육생 | Java & Spring 웹 애플리케이션 개발자
 
 ## 💻 Project
 
-
-
 ### 🎼OnTheBlock : 합주 SNS 플랫폼
+'23.08.28 - '23.11.06 (6주) , 개발인원 5명
 
-
-'22.07.01 - '22.07.26 (3주) , 개발인원 3명
-
-[프로젝트 개요]
+**[프로젝트 개요]**
 - 아마추어 뮤지션들을 위한 합주 플랫폼입니다.
 - 사회적 거리두기로 인한 음악 동아리 운영의 어려움을 떠올리며, 가수 성시경의 합주 영상을 모티브로 구현한 시스템입니다.
 - 빅데이터 추천 시스템을 적용해 연주 영상을 맞춤 추천하고, 뮤지션들의 활발한 교류를 촉진합니다.
  
-[역할] : Front-End
+**[역할] : Front-End**
 - 화면 설계 및 구현
 - 합주 영상 등록 및 재생 기능 구현 : 
 MediaRecorder API 이용 영상 녹화, 파일 업로드, Remotion 라이브러리 이용 영상 동시 제어, UseMemo 이용 성능 최적화
@@ -93,19 +90,19 @@ MediaRecorder API 이용 영상 녹화, 파일 업로드, Remotion 라이브러�
 &nbsp;  
 
 ### 🍏Ringo : 여행지 정보 웹사이트
-
-여행지 검색, 여행 계획을 작성하고 관광지 포토리뷰, 여행정보 게시판 등 커뮤니티를 제공하는   
-Spring Framework 기반의 REST API + Vue.js 기반의 클라이언트로 구성된 Single Page Application입니다.  
 '23.05.01 - '23.05.26 (3주) , 개발인원 2명  
 
-**[기획의도]**  
-- 코로나 19 이후 증가한 온라인 여행 플래너 수요에 부합하는 서비스를 만들고자 하였습니다.  
-- Axios 비동기 통신을 이용하여, 사용자가 실시간으로 데이터와 상호작용할 수 있는 웹 서비스를 구현하고자 하였습니다.  
-- ChatGPT, Kakao API, 공공데이터 등등 웹서비스의 유용성을 높이는 API들을 활용하였습니다.  
+**[프로젝트 개요]**  
+- 여행지 검색, 여행 계획을 작성하는 온라인 여행 플래너 및 관광지 포토리뷰, 여행정보 게시판 등 커뮤니티를 제공하는 서비스입니다.
+- Spring Framework 기반의 REST API + Vue.js 기반의 클라이언트로 구성된 Single Page Application입니다.  
+- ChatGPT, Kakao API, 공공데이터 등등 웹서비스의 유용성을 높이는 API들을 활용하였습니다.
+
+
  
-**[역할]** : 팀장  
+**[역할] : Full-Stack, 팀장**
 - DB구조 설계, 협업체계(Git) 관리  
-- 회원기능, 관광지 정보, 포토리뷰, 여행계획 구현  
+- 회원기능, 관광지 정보, 포토리뷰, 여행계획 구현
+- 화면구현 및 Axios 비동기 통신 구현
 
 
 
@@ -115,7 +112,7 @@ https://www.youtube.com/watch?v=Zujd17yREBY
 
 &nbsp;  
 
-
+<!--
 
 ### 🍒Cherrypick : 로컬 카페 추천 웹사이트
 
@@ -133,24 +130,8 @@ https://www.youtube.com/watch?v=Zujd17yREBY
 
 **GitHub:**  
 https://github.com/HyebinPark96/CherryPick  
-
+-->
   
-&nbsp;  
----
-&nbsp;      
-
-
-&nbsp;
-
-**GitHub:**   
-https://github.com/AtomicLiquors/jsp-music-website/
-
-&nbsp;  
----
-&nbsp;    
-
-&nbsp;  
----
 
 &nbsp;  
 
@@ -162,15 +143,11 @@ https://github.com/AtomicLiquors/jsp-music-website/
 &nbsp;  
 
 ### 💳 Certification
+- SQL개발자(SQLD) (`23.04.14)
+- 정보처리기사 ('22.06.17)
 - TOEIC 935 ('22.05.29)
-- 컴퓨터활용능력(1급) 취득 ('20.11.23)
-- 정보처리기사 자격증 취득 ('22.06.17)
-- SQLD 자격증 취득 (`23.04.14)
 
-&nbsp;  
----
 
-&nbsp;  
 
 ### 💳 Trivia
 ##### 독서 목록
@@ -180,7 +157,6 @@ https://github.com/AtomicLiquors/jsp-music-website/
 - 객체지향의 사실과 오해
 
 &nbsp;  
-- 네이비 씰 승리의 기술 [조코 윌링크]
 - Think Hard! 몰입 [황농문]
 
 &nbsp;  
@@ -189,7 +165,7 @@ https://github.com/AtomicLiquors/jsp-music-website/
 
 ### 📺 See Also
 
-**Blog.** [https://atomicliquors.tistory.com/](https://atomicliquors.tistory.com/)
+**Notion.** [https://dot-shift-674.notion.site/351e25d3871b4ec4a4d47e58cb54867f](https://dot-shift-674.notion.site/351e25d3871b4ec4a4d47e58cb54867f)
 
 **Github.**  [https://github.com/AtomicLiquors](https://github.com/AtomicLiquors)
 
