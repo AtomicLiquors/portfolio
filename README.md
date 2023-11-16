@@ -13,7 +13,7 @@ SSAFY 9기 교육생 | Java & Spring 웹 애플리케이션 개발자
 &nbsp;  
 
 
-## 📧 CONTACT
+## 📧 Contact
 **Naver.** gyqls234@naver.com        
 **Gmail.** gyqls234@gmail.com   
 
